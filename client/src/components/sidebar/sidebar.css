@@ -1,0 +1,30 @@
+.side_bar_width{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.add_book_form{
+    margin-top: auto;
+    padding: 10px;
+}
+
+.submitWrapper{
+    display: flex;
+    width: 88%;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.submitButton{
+    
+}
+
+.field{
+    width: 88%;
+}
+
+.book_name_input,.book_genere_input{
+    width: 100%;
+}

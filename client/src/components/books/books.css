@@ -1,0 +1,19 @@
+.books_list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0;
+    gap: 10px;
+}
+
+.book{
+    display: inline-block;
+    list-style: none;
+    border: 2px solid red;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 15%;
+    color: white;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,28,1) 56%, rgba(0,212,255,1) 100%);
+}

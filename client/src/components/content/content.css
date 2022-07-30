@@ -1,0 +1,17 @@
+.content_height{
+    flex-grow: 7;
+}
+
+.main_content_width{
+    width: 60%;
+    outline: 1px solid green;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(226,54,75,0.958420868347339) 10%, rgba(0,212,255,1) 100%);
+}
+
+.content_display{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    outline: 1px solid red;
+}
